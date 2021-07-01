@@ -1,18 +1,39 @@
-### Hi there 👋
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=deddyprianto&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
+# Hi there, I'm [deddyprianto!](https://github.com/deddyprianto) 👋
+<a href="https://twitter.com/ddeddyy1" target="_blank">
+<img src=https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white alt=twitter style="margin-bottom: 5px;" />
+</a> 
+<a href="mailto:haicoders12@gmail.com?hl=en" target="_blank">
+<img src=https://img.shields.io/badge/gmail-%23DC493C.svg?&style=for-the-badge&logo=gmail&logoColor=white alt=gmail style="margin-bottom: 5px;" />
+</a>
+<a href="https://www.linkedin.com/in/deddy-prianto-sihombing-a1ab30208/" target="_blank">
+<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=Linkedin style="margin-bottom: 5px;" />
+</a>
 
-![visitors](https://visitor-badge.glitch.me/badge?page_id=page.id)
-<!--
-**deddyprianto/deddyprianto** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+<br />
+<br />
+<img alt="Deddy Prianto" align="right" src="https://avatars.githubusercontent.com/u/59042228?v=4" width="400px"/>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<h3>Hi, I'm Deddy Prianto Sihombing, a passionate self-taught <strong>Front-END Developer</strong> and a <strong>Competitive Programming Enthusiast</strong>.</h3>
+
+<br/>
+
+
+ - 🔭 I’m currently working on a private repository.<br/>
+ 
+- 🌱 I’m currently learning <strong>Data Structures and Algorithms</strong>
+- 🤝 I’m looking to collaborate on <strong>FrontEND Developer(ReactJS Or React Native)</strong> Projects
+-  :mailbox: Reach out to me at : haicoders12@gmail.com<br/>
+
+- Tea :coffee: is my drug
+<h3>Tech Stack</h3>
+<p align="left">
+  <img src="https://img.icons8.com/color/48/000000/html-5.png" alt="html5" width="40" height="40"/><img src="https://img.icons8.com/color/48/000000/css3.png" alt="css3" width="40" height="40"/> <img src="https://img.icons8.com/color/48/000000/javascript.png" alt="javascript" width="40" height="40"/> <img src="https://img.icons8.com/ultraviolet/40/000000/react.png" alt="python" width="40" height="40"/> 
+ <img src="https://img.icons8.com/color/48/000000/nodejs.png" width="40" height="40" alt="nodejs" /> <img src="https://img.icons8.com/color/48/000000/mongodb.png" width="40" height="40" />
+ <img src="https://img.icons8.com/color/48/000000/firebase.png" alt="firebase" width="40" height="40"/>
+
+ </p>
+<p align = 'center'> 
+<a href="https://github.com/deddyprianto">
+  <img align="left" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=deddyprianto&count_private=true&theme=radical" alt="Deddy Prianto's github stats" />
+</a>
