@@ -12,7 +12,7 @@
 
 <br />
 <br />
-<img alt="Deddy Prianto" align="right" src="https://avatars.githubusercontent.com/u/59042228?v=4" width="400px"/>
+<img alt="Deddy Prianto" align="right" src="https://github.com/deddyprianto/deddyprianto/blob/main/procGithub1.png?raw=true" width="400px"/>
 
 <h3>Hi, I'm Deddy Prianto Sihombing, a passionate self-taught <strong>Front-END Developer</strong> and a <strong>Competitive Programming Enthusiast</strong>.</h3>
 
