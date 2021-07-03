@@ -14,21 +14,21 @@
 <br />
 <img alt="Deddy Prianto" align="right" src="https://github.com/deddyprianto/deddyprianto/blob/main/procGithub1.png?raw=true" width="400px"/>
 
-<h3>Hi, I'm Deddy Prianto Sihombing, a passionate self-taught <strong>Front-END Developer</strong> and a <strong>Competitive Programming Enthusiast</strong>.</h3>
+<h3>Hi, I'm Deddy Prianto Sihombing <br/> A passionate self-taught <strong>Front-End Engineering with Experience 2 years</strong> and a <strong>Competitive Programming Enthusiast</strong>.</h3>
 
 <br/>
 
 
  - 🔭 I’m currently working on a private repository.<br/>
  
-- 🌱 I’m currently learning <strong>Data Structures and Algorithms</strong>
-- 🤝 I’m looking to collaborate on <strong>FrontEND Developer(ReactJS Or React Native)</strong> Projects
--  :mailbox: Reach out to me at : haicoders12@gmail.com<br/>
+- 🌱 I’m currently learning <strong>Data Structures,Algorithms & TypeScript</strong>
+- 🤝 I’m looking to collaborate on <strong>Front-End Engineering (ReactJS Or React Native)</strong> Projects
+-  :mailbox: Reach out to me at : haicoders12@gmail.com<br/> 
 
 - Tea :coffee: is my drug
 <h3>Tech Stack</h3>
 <p align="left">
-  <img src="https://img.icons8.com/color/48/000000/html-5.png" alt="html5" width="40" height="40"/><img src="https://img.icons8.com/color/48/000000/css3.png" alt="css3" width="40" height="40"/> <img src="https://img.icons8.com/color/48/000000/javascript.png" alt="javascript" width="40" height="40"/> <img src="https://img.icons8.com/ultraviolet/40/000000/react.png" alt="python" width="40" height="40"/> <img src="https://img.icons8.com/7E57C2/redux" alt="python" width="40" height="40"/>
+  <img src="https://img.icons8.com/color/48/000000/html-5.png" alt="html5" width="40" height="40"/><img src="https://img.icons8.com/color/48/000000/css3.png" alt="css3" width="40" height="40"/> <img src="https://img.icons8.com/color/48/000000/javascript.png" alt="javascript" width="40" height="40"/> <img src="https://img.icons8.com/1976D2/typescript" alt="javascript" width="40" height="40"/> <img src="https://img.icons8.com/ultraviolet/40/000000/react.png" alt="python" width="40" height="40"/> <img src="https://img.icons8.com/7E57C2/redux" alt="python" width="40" height="40"/>
  <img src="https://img.icons8.com/color/48/000000/nodejs.png" width="40" height="40" alt="nodejs" /> <img src="https://img.icons8.com/color/48/000000/mongodb.png" width="40" height="40" />
  <img src="https://img.icons8.com/color/48/000000/firebase.png" alt="firebase" width="40" height="40"/>
 
