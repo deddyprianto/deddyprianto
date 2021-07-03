@@ -9,16 +9,11 @@
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=Linkedin style="margin-bottom: 5px;" />
 </a>
 
-
-<br />
 <br />
 <img alt="Deddy Prianto" align="right" src="https://github.com/deddyprianto/deddyprianto/blob/main/procGithub1.png?raw=true" width="400px"/>
 
 <h3>Hi, I'm Deddy Prianto Sihombing <br/> A passionate self-taught <strong>Front-End Engineering with Experience 2 years</strong> and a <strong>Competitive Programming Enthusiast</strong>.</h3>
-
 <br/>
-
-
  - 🔭 I’m currently working on a private repository.<br/>
  
 - 🌱 I’m currently learning <strong>Data Structures,Algorithms & TypeScript</strong>
