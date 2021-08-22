@@ -20,7 +20,7 @@
 - 🤝 I’m looking to collaborate on <strong>Front-End Engineering (ReactJS Or React Native)</strong> Projects
 -  :mailbox: Reach out to me at : haicoders12@gmail.com<br/> 
 
-- Tea :coffee: is my drug
+- coffee :coffee: is my drug
 <h3>Tech Stack</h3>
 <p align="left">
   <img src="https://img.icons8.com/color/48/000000/html-5.png" alt="html5" width="40" height="40"/><img src="https://img.icons8.com/color/48/000000/css3.png" alt="css3" width="40" height="40"/> <img src="https://img.icons8.com/color/48/000000/javascript.png" alt="javascript" width="40" height="40"/> <img src="https://img.icons8.com/1976D2/typescript" alt="javascript" width="40" height="40"/> <img src="https://img.icons8.com/ultraviolet/40/000000/react.png" alt="python" width="40" height="40"/> <img src="https://img.icons8.com/7E57C2/redux" alt="python" width="40" height="40"/>
