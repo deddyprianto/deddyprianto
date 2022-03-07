@@ -28,8 +28,11 @@
  <img src="https://img.icons8.com/color/48/000000/firebase.png" alt="firebase" width="40" height="40"/>
 
  </p>
-<p align = 'center'> 
+<p align = 'center'>
+ <div style="display: flex; justify-content: center; align-items: center;">
+
 <a href="https://github.com/deddyprianto">
   <img align="left" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=deddyprianto&count_private=true&theme=radical" alt="Deddy Prianto's github stats" />
 </a>
  <a href="https://app.daily.dev/deeddyy"><img src="https://api.daily.dev/devcards/4fecd4f2c4a4480ab2fa977ede3c0ec0.png?r=q2s" width="400" alt="dedyprianto's Dev Card"/></a>
+</div>
