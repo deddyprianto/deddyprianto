@@ -32,6 +32,8 @@
 <a href="https://github.com/deddyprianto">
   <img align="left" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=deddyprianto&count_private=true&theme=radical" alt="Deddy Prianto's github stats" />
  <br/>
+  <br/>
+  <br/>
 </a>
  <a href="https://app.daily.dev/deeddyy"><img src="https://api.daily.dev/devcards/4fecd4f2c4a4480ab2fa977ede3c0ec0.png?r=q2s" width="400" alt="dedyprianto's Dev Card"/></a>
 
