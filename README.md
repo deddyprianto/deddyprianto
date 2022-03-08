@@ -34,10 +34,6 @@
  <br/>
   <br/>
   <br/>
-  <br/>
-  <br/>
-  <br/>
-  <br/>
 </a>
- <a href="https://app.daily.dev/deeddyy"><img src="https://api.daily.dev/devcards/4fecd4f2c4a4480ab2fa977ede3c0ec0.png?r=q2s" width="400" alt="dedyprianto's Dev Card"/></a>
+ <a style="margin-top: 150px;" href="https://app.daily.dev/deeddyy"><img src="https://api.daily.dev/devcards/4fecd4f2c4a4480ab2fa977ede3c0ec0.png?r=q2s" width="400" alt="dedyprianto's Dev Card"/></a>
 
