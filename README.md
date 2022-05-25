@@ -32,5 +32,5 @@
 <a href="https://github.com/deddyprianto">
   <img align="left" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=deddyprianto&count_private=true&theme=radical" alt="Deddy Prianto's github stats" />
 </a>
-<a href="https://app.daily.dev/deeddyy"><img src="https://github.com/deddyprianto/deddyprianto/blob/main/devcard.svg" width="400" alt="Chris Bongers's Dev Card"/></a>
+<a style="margin-top:50px;" href="https://app.daily.dev/deeddyy"><img src="https://github.com/deddyprianto/deddyprianto/blob/main/devcard.svg" width="400" alt="Chris Bongers's Dev Card"/></a>
 
