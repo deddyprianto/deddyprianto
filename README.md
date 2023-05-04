@@ -9,7 +9,7 @@
 <br />
 <img alt="Deddy Prianto" align="right" src="https://github.com/deddyprianto/deddyprianto/blob/main/DediBulat.png?raw=true" width="400px"/>
 
-<h3>Hi, I'm Deddy Prianto Sihombing <br/> A passionate self-taught <strong>Front-End Engineering with Experience 2 years</strong> and a <strong>Competitive Programming Enthusiast</strong>.</h3>
+<h3>Hi, I'm Deddy Prianto <br/> A passionate self-taught <strong>Front-End Engineering with Experience 2 years</strong> and a <strong>Competitive Programming Enthusiast</strong>.</h3>
 <br/>
  - 🔭 I’m currently working on a private repository.<br/>
  
